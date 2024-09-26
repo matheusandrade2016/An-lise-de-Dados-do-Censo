@@ -11,7 +11,7 @@ Utilizaremos um conjunto de dados do censo que inclui informações sobre idade,
 Resultados Esperados:
 Esperamos que os modelos desenvolvidos sejam capazes de prever a renda com alta precisão, permitindo identificar os principais determinantes da desigualdade de renda. Os resultados deste estudo podem auxiliar governos, empresas e pesquisadores a tomar decisões mais informadas e a desenvolver políticas públicas mais eficazes para reduzir a desigualdade.
 
-**Pré-processamento dos Dados**
+# Pré-processamento dos Dados
 
 "Os dados foram submetidos a um processo de limpeza, removendo valores ausentes e outliers
 
