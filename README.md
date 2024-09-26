@@ -1,6 +1,6 @@
 # Análise de Dados do Censo
 
-**Introdução**
+# Introdução
 
 Este projeto tem como objetivo prever a renda anual de indivíduos utilizando o conjunto de dados do Censo Demográfico. A base de dados, obtida de [**kaggle**], contém informações sobre [**idade" "classe trabalhadora" "educação" renda" e  etc**] Através da aplicação de diversas técnicas de Machine Learning, como Árvores de Decisão, Random Forest Aprendizagem por Regras, KNN, Regressão logística, SVM e Redes Neurais Artificiais busca-se identificar as características socioeconômicas mais relevantes para a determinação da renda e construir um modelo preditivo preciso. As métricas de desempenho utilizadas serão acurácia, precisão e recall. Os resultados deste estudo podem auxiliar na compreensão das desigualdades sociais e na formulação de políticas públicas mais eficazes para a redução da desigualdade de renda.
 
