@@ -55,3 +55,13 @@ randomForest: Criação do nosso algoritmo RandomForest
 caret: Avaliação do modelo e ajuste de hiperparâmetros.
 
 
+# Implementação do Algoritmo KNN
+
+Este repositório contém o código R utilizado para construir e avaliar um modelo de KNN ((k-nearest neighbors) . A biblioteca class foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo. 
+
+**Bibliotecas usadas para KNN**
+
+class: Criação do nosso algoritmo KNN
+
+caret: Avaliação do modelo e ajuste de hiperparâmetros.
+
