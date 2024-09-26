@@ -32,7 +32,7 @@ rpart.plot: Visualização da árvore de decisão.
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de Regras . A biblioteca RoughSets foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo através de validação cruzada.
 
-**Bibliotecas usadas para Árvores de Decisões**
+**Bibliotecas usadas para Cn2**
 
 RoughSets: Criação do nosso algoritmo Cn2.
 
