@@ -15,7 +15,7 @@ Esperamos que os modelos desenvolvidos sejam capazes de prever a renda com alta 
 
 "Os dados foram submetidos a um processo de limpeza, removendo valores ausentes e outliers
 
-# Implementação de Árvore de Decisão para o Censo**
+# Implementação de Árvore de Decisão para o Censo
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de árvore de decisão. A biblioteca rpart foi utilizada para criar a árvore, enquanto caret foi empregada para a avaliação do modelo através de validação cruzada. A biblioteca rpart.plot foi utilizada para visualizar a árvore de decisão.
 
