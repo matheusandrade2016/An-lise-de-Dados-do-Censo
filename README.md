@@ -1,6 +1,6 @@
 # Análise de Dados do Censo
 
-# Introdução
+# Introdução:
 
 A desigualdade de renda é um desafio global que impacta a qualidade de vida de milhões de pessoas. Compreender os fatores que influenciam a renda individual é crucial para a formulação de políticas públicas mais equitativas e para a tomada de decisões informadas por empresas e indivíduos.
 
