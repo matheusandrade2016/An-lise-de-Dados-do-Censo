@@ -23,7 +23,7 @@ Esperamos que os modelos desenvolvidos sejam capazes de prever a renda com alta 
 
 "Os dados foram submetidos a um processo de limpeza, removendo valores ausentes e outliers
 
-# Implementação de Árvore de Decisão para o Censo
+# Implementação de Árvore de Decisão 
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de árvore de decisão. A biblioteca rpart foi utilizada para criar a árvore, enquanto caret foi empregada para a avaliação do modelo através de validação cruzada. A biblioteca rpart.plot foi utilizada para visualizar a árvore de decisão.
 
@@ -36,7 +36,7 @@ caret: Avaliação do modelo e ajuste de hiperparâmetros.
 rpart.plot: Visualização da árvore de decisão.
 
 
-# Implementação do Algoritmo CN2 em R
+# Implementação do Algoritmo CN2 
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de Regras . A biblioteca RoughSets foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo através de validação cruzada.
 
