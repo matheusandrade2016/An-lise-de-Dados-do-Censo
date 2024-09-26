@@ -65,3 +65,12 @@ class: Criação do nosso algoritmo KNN
 
 caret: Avaliação do modelo e ajuste de hiperparâmetros.
 
+# Implementação do Algoritmo Regressão Logística
+
+Este repositório contém o código R utilizado para construir e avaliar um modelo de Regressão . Utilizamos a própria  biblioteca glm que vem da própria linguagem do R foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo. 
+
+**Bibliotecas usadas para Regressão Logística**
+
+glm: criação do nosso algoritmo Regressão Logística
+
+caret: Avaliação do modelo e ajuste de hiperparâmetros.
