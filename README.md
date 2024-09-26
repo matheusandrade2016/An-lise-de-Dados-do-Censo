@@ -28,7 +28,7 @@ caret: Avaliação do modelo e ajuste de hiperparâmetros.
 rpart.plot: Visualização da árvore de decisão.
 
 
-# Implementação do Algoritmo CN2 em R 
+**Implementação do Algoritmo CN2 em R**
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de Regras . A biblioteca RoughSets foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo através de validação cruzada.
 
