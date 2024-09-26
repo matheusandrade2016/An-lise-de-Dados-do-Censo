@@ -69,8 +69,26 @@ caret: Avaliação do modelo e ajuste de hiperparâmetros.
 
 Este repositório contém o código R utilizado para construir e avaliar um modelo de Regressão . Utilizamos a própria  biblioteca glm que vem da própria linguagem do R foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo. 
 
+
+# Implementação do Algoritmo Regressão Logística
+
+Este repositório contém o código R utilizado para construir e avaliar um modelo de Regressão . Utilizamos a própria  biblioteca glm que vem da própria linguagem do R foi utilizada para criar nosso modelo , enquanto caret foi empregada para a avaliação do modelo. 
+
 **Bibliotecas usadas para Regressão Logística**
 
-glm: criação do nosso algoritmo Regressão Logística
+glm: Criação do nosso algoritmo Regressão Logística 
 
 caret: Avaliação do modelo e ajuste de hiperparâmetros.
+
+
+# Implementação do Algoritmo SVM (Máquina de vetores de suporte)
+
+Este repositório contém o código R utilizado para construir e avaliar um modelo de SVM. Utilizamos a biblioteca e1071, para criar nosso modelo, enquanto caret foi empregada para a avaliação do modelo. 
+
+**Bibliotecas usadas para SVM **
+
+e1071: Criação do nosso algoritmo SVM 
+
+caret: Avaliação do modelo e ajuste de hiperparâmetros.
+
+
