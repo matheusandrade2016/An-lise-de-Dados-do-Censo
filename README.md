@@ -91,4 +91,15 @@ e1071: Criação do nosso algoritmo SVM
 
 caret: Avaliação do modelo e ajuste de hiperparâmetros.
 
+# Implementação do Algoritmo Redes Neurais Artificiais
+
+Este repositório contém o código R utilizado para construir e avaliar um modelo de Redes Neurais Artificiais. Utilizamos a biblioteca h2o, para criar nosso modelo, enquanto caret foi empregada para a avaliação do modelo. 
+
+**Bibliotecas usadas para Redes Neurais Artificiais**
+
+h2o: Criação do nosso algoritmo Redes Neurais Artificiais 
+
+caret: Avaliação do modelo e ajuste de hiperparâmetros.
+
+
 
